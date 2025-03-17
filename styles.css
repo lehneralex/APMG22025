@@ -1,0 +1,38 @@
+body{
+    background-color: #683e3e;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 80%;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+header{
+    background-color: #333;
+    color: #fff;
+    padding-top: 10px;
+    min-height: 70px;
+    border-bottom: 3px solid #e8491d;
+}
+
+header h1{
+    text-align: center;
+    font-size: 24px;
+}
+
+nav{
+    float: left;
+    width: 40%;
+    text-align: center;
+    margin-top: 10px;
+}
+
+nav ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
